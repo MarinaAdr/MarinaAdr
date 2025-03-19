@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Developer+%26+Tester;Passionate+about+coding;Always+learning+new+technologies" alt="Typing SVG" />
   
 </div>
-<div align="center">
-  <img src="https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966" alt="Animation de développement" width="500" />
+<div>
+  <img src="https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966" alt="Animation de développement" width="full" />
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mes compétences
