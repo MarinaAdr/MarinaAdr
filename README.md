@@ -63,7 +63,6 @@
         </a>
         <br>Node.js
       </td>
-      
       <td align="center" width="96">
         <a href="#">
           <div class="skills-badge">
